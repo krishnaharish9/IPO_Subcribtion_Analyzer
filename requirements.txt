@@ -1,0 +1,9 @@
+langchain==0.0.190
+faiss-cpu==1.7.4
+sentence-transformers==2.2.2
+transformers==4.31.0
+huggingface_hub==0.16.4
+accelerate==0.27.2
+torch==2.1.2
+pdfplumber==0.7.4
+streamlit==1.31.1

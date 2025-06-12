@@ -14,8 +14,3 @@ def split_text(text):
     chunks=splitter.split_text(text)
     return [Document(page_content=chunk) for chunk in chunks]
 
-
-# text=load_pdf('C:/Users/krish/Desktop/RAG/Docs/Vishal_Mega_Mart.pdf')
-# chunks = split_text(text)
-
-# print(chunks)
